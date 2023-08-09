@@ -8,7 +8,7 @@ import Navbar from "./components/Navbar";
 function App() {
 
   return (
-    <div className="font-font bg-white02">
+    <div className="font-font bg-white02 w-full h-full">
       
       <Router>
         <Navbar/>
